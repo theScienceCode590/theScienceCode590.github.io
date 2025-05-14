@@ -696,6 +696,9 @@ function go_cs_q() {
 function go_alex5() {
     location.replace("alex5.html");
 }
+function go_roby11() {
+    location.replace("roby11.html");
+}
 function go_doc_q() {
     location.replace("doc_q.html");
 }
